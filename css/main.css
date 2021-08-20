@@ -140,6 +140,15 @@ img {
   border-radius: 5px;
 }
 
+.btn-outline {
+  background-color: transparent;
+  border: 1px #fff solid;
+}
+
+.btn:hover {
+  transform: scale(0.98);
+}
+
 .flex {
   display: flex;
   justify-content: center;
